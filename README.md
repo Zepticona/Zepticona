@@ -2,7 +2,7 @@
 
 I code and build things because I think they are cool and fun to do. 
 
-[LinkedIn](https://www.linkedin.com/in/zepticona) [Resume](https://drive.google.com/file/d/17ywo3hP8Z7oSUeNEK7J5izHmPWEwaLbc/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/zepticona)  ||   [Resume](https://drive.google.com/file/d/17ywo3hP8Z7oSUeNEK7J5izHmPWEwaLbc/view?usp=sharing)
 
 <!--
 **Zepticona/Zepticona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sakil
+
+I code and build things because I think they are cool and fun to do. 
+
+[LinkedIn](https://www.linkedin.com/in/zepticona)
 
 <!--
 **Zepticona/Zepticona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
